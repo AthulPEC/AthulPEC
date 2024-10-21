@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+I'm ATHUL J from COLLEGE OF ENGINEERING PATHANAPURAM pursuing my BTech in Mechanical Engineering.
+Nice to meet you friend this is my latest github account
 <!--
 **AthulPEC/AthulPEC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
