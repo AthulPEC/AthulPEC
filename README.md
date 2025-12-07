@@ -1,17 +1,20 @@
-## Hi there 👋
-I'm ATHUL J from COLLEGE OF ENGINEERING PATHANAPURAM pursuing my BTech in Mechanical Engineering.
-Nice to meet you friend this is my latest github account
-<!--
-**AthulPEC/AthulPEC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Athul J! 👋
 
-Here are some ideas to get you started:
+### 👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* I'm currently focused on expanding my skills in Web Development.
+* I'm learning about Git/GitHub workflows, branching, and version control through practical assignments.
+* I'm passionate about problem-solving, open-source contribution.
+---
+### 🛠️ My Tech Stack & Skills
+
+| Category | Skills & Technologies |
+| :--- | :--- |
+| **Language** | Python |
+| **Tools & Platforms** | Git, GitHub, Linux/WSL |
+| **Focus Areas** | Web Scraping, Basic UI/UX |
+---
+### 🤝 Connect with Me
+
+* **Email:** athuljathul2006@gmail.com
+* **LinkedIn:** www.linkedin.com/in/athul-j-pec
